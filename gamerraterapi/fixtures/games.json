@@ -1,0 +1,157 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Citadel: Forged with Fire",
+            "description": "Massive online sandbox with elements of magic",
+            "designer": "Blue Isle Studios",
+            "year_released": 2017,
+            "number_of_players": 20,
+            "estimated_time_to_play": 200,
+            "recommended_age": 6,
+            "player_id": 1
+        }
+        
+    },
+
+        {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Yahtzee",
+            "description": "Roll five dice to make certain combinations",
+            "designer": "Milton Bradley",
+            "year_released": 1956,
+            "number_of_players": 2,
+            "estimated_time_to_play": 60,
+            "recommended_age": 8,
+            "player_id": 1
+        }
+        
+    },
+
+        {
+        "model": "gamerraterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Uno",
+            "description": "Get rid of your cards before your opponents!",
+            "designer": "Mattell",
+            "year_released": 1992,
+            "number_of_players": 2,
+            "estimated_time_to_play": 200,
+            "recommended_age": 7,
+            "player_id": 1
+        }
+        
+    },
+
+        {
+        "model": "gamerraterapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "Age of War",
+            "description": "Conquer castles and secure clans",
+            "designer": "Reiner Knizia",
+            "year_released": 2014,
+            "number_of_players": 6,
+            "estimated_time_to_play": 30,
+            "recommended_age": 14,
+            "player_id": 1
+        }
+        
+    },
+
+        {
+        "model": "gamerraterapi.game",
+        "pk": 5,
+        "fields": {
+            "title": "World War Hulk Expansion",
+            "description": "Action adventure and is the sixth installment of the series",
+            "designer": "Marvel",
+            "year_released": 2013,
+            "number_of_players": 5,
+            "estimated_time_to_play": 60,
+            "recommended_age": 10,
+            "player_id": 1
+        }
+        
+    },
+     {
+        "model": "gamerraterapi.game",
+        "pk": 6,
+        "fields": {
+            "title": "Grand Theft Auto",
+            "description": "Take over the city of San Andreas",
+            "designer": "Rockstar Games",
+            "year_released": 1997,
+            "number_of_players": 4,
+            "estimated_time_to_play": 200,
+            "recommended_age": 6,
+            "player_id": 1
+        }
+        
+    },
+     {
+        "model": "gamerraterapi.game",
+        "pk": 7,
+        "fields": {
+            "title": "NBA 2K",
+            "description": "Choose your favorite NBA team and showcase your skills",
+            "designer": "2k Sports",
+            "year_released": 2006,
+            "number_of_players": 4,
+            "estimated_time_to_play": 200,
+            "recommended_age": 6,
+            "player_id": 1
+        }
+        
+    },
+     {
+        "model": "gamerraterapi.game",
+        "pk": 8,
+        "fields": {
+            "title": "Tomb Raider",
+            "description": "Action adventure first person shooter",
+            "designer": "Little World Studios",
+            "year_released": 2006,
+            "number_of_players": 1,
+            "estimated_time_to_play": 60,
+            "recommended_age": 14,
+            "player_id": 1
+        }
+        
+    },
+     {
+        "model": "gamerraterapi.game",
+        "pk": 9,
+        "fields": {
+            "title": "Mine Craft",
+            "description": "Explore infinite worlds and build everything from homes to castles",
+            "designer": "Xbox Studios",
+            "year_released": 2020,
+            "number_of_players": 10,
+            "estimated_time_to_play": 200,
+            "recommended_age": 6,
+            "player_id": 1
+        }
+        
+    },
+     {
+        "model": "gamerraterapi.game",
+        "pk": 10,
+        "fields": {
+            "title": "Call of Duty",
+            "description": "First Person Shooter",
+            "designer": "Activision",
+            "year_released": 2019,
+            "number_of_players": 20,
+            "estimated_time_to_play": 200,
+            "recommended_age": 12,
+            "player_id": 1
+        }
+        
+    }
+
+]
