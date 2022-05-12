@@ -10,7 +10,8 @@
             "number_of_players": 20,
             "estimated_time_to_play": 200,
             "recommended_age": 6,
-            "player_id": 1
+            "player_id": 1,
+            "category": [1,2]
         }
         
     },
